@@ -1,5 +1,11 @@
-# awesome-CocosCreator
-Cocos Creator 资源合集
+---
+layout: post
+title: "Cocos Creator 资源合集"
+date: 2025-05-28
+tags: [cocos,游戏]
+comments: true
+author: xxzj990
+---
 
 >由于工作与技术积累的需要，把日常收集到的游戏框架、成品游戏、游戏Demo、棋牌游戏，等资源整理在一起。我会不定时更新，同时欢迎大家把收集好的东西留言(issue,push)分享出来。
 
