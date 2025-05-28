@@ -7,6 +7,8 @@ comments: true
 author: xxzj990
 ---
 
+原文：[https://github.com/Leo501/awesome-CocosCreator](https://github.com/Leo501/awesome-CocosCreator)
+
 >由于工作与技术积累的需要，把日常收集到的游戏框架、成品游戏、游戏Demo、棋牌游戏，等资源整理在一起。我会不定时更新，同时欢迎大家把收集好的东西留言(issue,push)分享出来。
 
 #### 框架
@@ -25,43 +27,43 @@ author: xxzj990
 
 #### 成品
 ---
-* facebook迷宫 https://github.com/NorhsArk/Cocos_Mazes
-* facebook麻将 https://github.com/NorhsArk/Cocos_MahjongBump
-* facebook一笔画2 https://github.com/NorhsArk/Cocos_OneDraw2
-* facebook打枪 https://github.com/NorhsArk/Cocos_LastGun
-* facebook迷宫变种 https://github.com/NorhsArk/Cocos_MazesCross
-* facebook鼻涕 https://github.com/NorhsArk/Cocos_Nose
-* facebook一笔画 https://github.com/NorhsArk/Cocos_OneDraw
-* facebook爬楼 https://github.com/NorhsArk/Cocos_RiseUp
-* facebook拼盘 https://github.com/NorhsArk/Cocos_FunnySlice
-* facebook纸牌2048 https://github.com/NorhsArk/Cocos_2048Solitare
-* facebook方块十消 https://github.com/NorhsArk/Cocos_1010
-* 大富翁 https://github.com/NorhsArk/CashEmpire
+* facebook迷宫 [https://github.com/NorhsArk/Cocos_Mazes](https://github.com/NorhsArk/Cocos_Mazes)
+* facebook麻将 [https://github.com/NorhsArk/Cocos_MahjongBump](https://github.com/NorhsArk/Cocos_MahjongBump)
+* facebook一笔画2 [https://github.com/NorhsArk/Cocos_OneDraw2](https://github.com/NorhsArk/Cocos_OneDraw2)
+* facebook打枪 [https://github.com/NorhsArk/Cocos_LastGun](https://github.com/NorhsArk/Cocos_LastGun)
+* facebook迷宫变种 [https://github.com/NorhsArk/Cocos_MazesCross](https://github.com/NorhsArk/Cocos_MazesCross)
+* facebook鼻涕 [https://github.com/NorhsArk/Cocos_Nose](https://github.com/NorhsArk/Cocos_Nose)
+* facebook一笔画 [https://github.com/NorhsArk/Cocos_OneDraw](https://github.com/NorhsArk/Cocos_OneDraw)
+* facebook爬楼 [https://github.com/NorhsArk/Cocos_RiseUp](https://github.com/NorhsArk/Cocos_RiseUp)
+* facebook拼盘 [https://github.com/NorhsArk/Cocos_FunnySlice](https://github.com/NorhsArk/Cocos_FunnySlice)
+* facebook纸牌2048 [https://github.com/NorhsArk/Cocos_2048Solitare](https://github.com/NorhsArk/Cocos_2048Solitare)
+* facebook方块十消 [https://github.com/NorhsArk/Cocos_1010](https://github.com/NorhsArk/Cocos_1010)
+* 大富翁 [https://github.com/NorhsArk/CashEmpire](https://github.com/NorhsArk/CashEmpire)
 ---
 * 七彩蹦蹦 [https://github.com/shichaohui/ColorUp](https://github.com/shichaohui/ColorUp)
-* 六边形消除 https://github.com/WuBuzi/LBXGame
-* 俄罗斯方块 https://github.com/KuoKuo666/CocosCreator-Tetris.git
-* 开心消消乐 https://github.com/isghost/kaixinxiaoxiaole
-* 橡皮怪勇闯地下室 https://github.com/shenghy/Cocos_Basement
-* 物理弹球 https://github.com/andynicoo/Physical-Pinball
-* 弹跳小卜源码 https://github.com/ccx01/Boo
-* 斗兽棋 https://github.com/matchvs/AnimalChecker
-* 投石对战微信小游戏 https://github.com/jay602/stone_war
-* 密室逃脱类小游戏 https://github.com/fylz1125/SecretBill
-* 篮球小游戏 https://github.com/fylz1125/BasketBall
+* 六边形消除 [https://github.com/WuBuzi/LBXGame](https://github.com/WuBuzi/LBXGame)
+* 俄罗斯方块 [https://github.com/KuoKuo666/CocosCreator-Tetris.git](https://github.com/KuoKuo666/CocosCreator-Tetris.git)
+* 开心消消乐 [https://github.com/isghost/kaixinxiaoxiaole](https://github.com/isghost/kaixinxiaoxiaole)
+* 橡皮怪勇闯地下室 [https://github.com/shenghy/Cocos_Basement](https://github.com/shenghy/Cocos_Basement)
+* 物理弹球 [https://github.com/andynicoo/Physical-Pinball](https://github.com/andynicoo/Physical-Pinball)
+* 弹跳小卜源码 [https://github.com/ccx01/Boo](https://github.com/ccx01/Boo)
+* 斗兽棋 [https://github.com/matchvs/AnimalChecker](https://github.com/matchvs/AnimalChecker)
+* 投石对战微信小游戏 [https://github.com/jay602/stone_war](https://github.com/jay602/stone_war)
+* 密室逃脱类小游戏 [https://github.com/fylz1125/SecretBill](https://github.com/fylz1125/SecretBill)
+* 篮球小游戏 [https://github.com/fylz1125/BasketBall](https://github.com/fylz1125/BasketBall)
 * 2D卷轴闯关小游戏 [https://github.com/Zhniing/Play](https://github.com/Zhniing/Play)
 * 治愈七夕，微信小游戏，音乐游戏 [https://github.com/SmileChen518/MusicGame](https://github.com/SmileChen518/MusicGame)
-* HorseRace https://github.com/SmileChen518/HorseRace
+* HorseRace [https://github.com/SmileChen518/HorseRace](https://github.com/SmileChen518/HorseRace)
 ---
-* “建造+道具合成+塔防+攻城”模块的游戏前后端源码 https://github.com/genxium/BuildingAndCraftingAndTowerDefenseGame
+* “建造+道具合成+塔防+攻城”模块的游戏前后端源码 [https://github.com/genxium/BuildingAndCraftingAndTowerDefenseGame](https://github.com/genxium/BuildingAndCraftingAndTowerDefenseGame)
 
 #### 3d游戏
-* 官方Demo集合 https://github.com/cocos-creator/example-3d
-* 官方testDemo https://github.com/cocos-creator/test-cases-3d
-* 模拟球弹跳 https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling
-* Creator 3D 材质系统：曲面效果如何实现 https://mp.weixin.qq.com/s/em641KPHGL5yur03KTSAsA
-* 弹弹乐 https://github.com/cocos-creator/demo-ball
-* 合成大西瓜3D版本 https://store.cocos.com/app/detail/2687
+* 官方Demo集合 [https://github.com/cocos-creator/example-3d](https://github.com/cocos-creator/example-3d)
+* 官方testDemo [https://github.com/cocos-creator/test-cases-3d](https://github.com/cocos-creator/test-cases-3d)
+* 模拟球弹跳 [https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling](https://github.com/Leo501/CocosCreatorTutorial/tree/master/BassFalling)
+* Creator 3D 材质系统：曲面效果如何实现 [https://mp.weixin.qq.com/s/em641KPHGL5yur03KTSAsA](https://mp.weixin.qq.com/s/em641KPHGL5yur03KTSAsA)
+* 弹弹乐 [https://github.com/cocos-creator/demo-ball](https://github.com/cocos-creator/demo-ball)
+* 合成大西瓜3D版本 [https://store.cocos.com/app/detail/2687](https://store.cocos.com/app/detail/2687)
 
 #### 半成品
 * 贪吃蛇 https://github.com/dixonzhang/ccc_snake
