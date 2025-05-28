@@ -39,7 +39,6 @@ author: xxzj990
 * facebook纸牌2048 [https://github.com/NorhsArk/Cocos_2048Solitare](https://github.com/NorhsArk/Cocos_2048Solitare)
 * facebook方块十消 [https://github.com/NorhsArk/Cocos_1010](https://github.com/NorhsArk/Cocos_1010)
 * 大富翁 [https://github.com/NorhsArk/CashEmpire](https://github.com/NorhsArk/CashEmpire)
----
 * 七彩蹦蹦 [https://github.com/shichaohui/ColorUp](https://github.com/shichaohui/ColorUp)
 * 六边形消除 [https://github.com/WuBuzi/LBXGame](https://github.com/WuBuzi/LBXGame)
 * 俄罗斯方块 [https://github.com/KuoKuo666/CocosCreator-Tetris.git](https://github.com/KuoKuo666/CocosCreator-Tetris.git)
@@ -54,7 +53,6 @@ author: xxzj990
 * 2D卷轴闯关小游戏 [https://github.com/Zhniing/Play](https://github.com/Zhniing/Play)
 * 治愈七夕，微信小游戏，音乐游戏 [https://github.com/SmileChen518/MusicGame](https://github.com/SmileChen518/MusicGame)
 * HorseRace [https://github.com/SmileChen518/HorseRace](https://github.com/SmileChen518/HorseRace)
----
 * “建造+道具合成+塔防+攻城”模块的游戏前后端源码 [https://github.com/genxium/BuildingAndCraftingAndTowerDefenseGame](https://github.com/genxium/BuildingAndCraftingAndTowerDefenseGame)
 
 #### 3d游戏
@@ -77,8 +75,8 @@ author: xxzj990
 * 汉字临摹 [https://github.com/Amterasu/writerDemo](https://github.com/Amterasu/writerDemo)
 
 #### 游戏核心玩法实现
-* [贪吃蛇平滑移动](https://zhuanlan.zhihu.com/p/91325549)
-* [割草](https://forum.cocos.org/t/topic/147780)
+* 贪吃蛇平滑移动 [https://zhuanlan.zhihu.com/p/91325549](https://zhuanlan.zhihu.com/p/91325549)
+* 割草 [https://forum.cocos.org/t/topic/147780](https://forum.cocos.org/t/topic/147780)
 
 ### 棋牌
 * 幼麟棋牌-四川麻将v1.0 [https://github.com/babykylin/babykylin_scmj](https://github.com/babykylin/babykylin_scmj)
@@ -125,7 +123,7 @@ author: xxzj990
 
 ### 物理系统
 * 常用物理知识 [https://blog.csdn.net/qiushisoftware/article/details/12139831](https://blog.csdn.net/qiushisoftware/article/details/12139831)
-* [https://github.com/2youyou2/physics-example](https://github.com/2youyou2/physics-example)
+* 2youyou2 [https://github.com/2youyou2/physics-example](https://github.com/2youyou2/physics-example)
 * Physical-Pinball 物理弹球 [https://github.com/andynicoo/](https://github.com/andynicoo/)
 * 打砖块 [https://github.com/potato47/brick-breaker-master](https://github.com/potato47/brick-breaker-master)
 * 瞄准线 [https://github.com/baiyuwubing/cocos-creator-examples/tree/master/aimLine](https://github.com/baiyuwubing/cocos-creator-examples/tree/master/aimLine)
@@ -177,7 +175,7 @@ author: xxzj990
 * cocos creator热更新非官方实现方案 [https://forum.cocos.org/t/topic/106800](https://forum.cocos.org/t/topic/106800)
 * 大厅+子游戏 [https://github.com/TopDiscover/QuickFramework](https://github.com/TopDiscover/QuickFramework)
 * Asset Bundle 全解析 [https://mp.weixin.qq.com/s/IGuWoQKmd7Fzn5R0YMMq2Q](https://mp.weixin.qq.com/s/IGuWoQKmd7Fzn5R0YMMq2Q)
-* [Creator2.x | Asset Bundle 全解析](https://forum.cocos.org/t/creator-asset-bundle/99886)
+* Creator2.x | Asset Bundle 全解析 [https://forum.cocos.org/t/creator-asset-bundle/99886](https://forum.cocos.org/t/creator-asset-bundle/99886)
 * 新资源管理系统剖析 [https://mp.weixin.qq.com/s/HLQyh_LquAUc5PASu874xQ](https://mp.weixin.qq.com/s/HLQyh_LquAUc5PASu874xQ)
 * 新资源管理系统剖析【四：资源释放】[https://forum.cocos.org/t/topic/103506](https://forum.cocos.org/t/topic/103506)
 * 教育大厅+子游戏开发实战 [https://mp.weixin.qq.com/s/Sp85mqRj7JpWmwVony8RzQ](https://mp.weixin.qq.com/s/Sp85mqRj7JpWmwVony8RzQ)
