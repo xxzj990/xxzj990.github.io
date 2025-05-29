@@ -38,7 +38,7 @@ void processFile(String filePath) {
   // 匹配格式: http://或https://开头的URL，但不匹配已经是markdown格式的链接
   // 包括链接前面有空格的情况，如 [xxx]( http://text.com)
   final httpLinkPattern = RegExp(
-    r'(?<!\[)(?<!\()(?<!\s\()https?://[^\s\)]+(?!\))(?!\])',
+    r'(?<![\]\(\[])(?<!\]\(\s)(?<!\]\(\<)(?<!src=")(?<!href=")https?://[^\s\)"\]]+',
   );
 
   // 计数器
@@ -47,6 +47,7 @@ void processFile(String filePath) {
   // 替换所有匹配的链接
   String newContent = content.replaceAllMapped(httpLinkPattern, (match) {
     String url = match.group(0)!;
+    log('找到链接: $url');
     // 直接使用URL作为链接文本
     linkCount++; // 增加计数
     return '[$url]($url)';
@@ -54,7 +55,7 @@ void processFile(String filePath) {
 
   // 如果内容有变化，写回文件
   if (content != newContent) {
-    file.writeAsStringSync(newContent);
+    // file.writeAsStringSync(newContent);
     log('文件已更新: $filePath');
     log('总共处理了 $linkCount 个链接');
   } else {
