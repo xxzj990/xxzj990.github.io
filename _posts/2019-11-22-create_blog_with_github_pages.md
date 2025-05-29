@@ -69,7 +69,7 @@ author: lemonchann
 
 ![修改仓库名称](https://raw.githubusercontent.com/lemonchann/lemonchann.github.io/master/images/2019-11-22-create_blog_with_github_pages/%E4%BF%AE%E6%94%B9%E4%BB%93%E5%BA%93%E5%90%8D%E7%A7%B0.png)
 
-此时，不出意外的话，打开域名 https://username.github.io 就能看到你刚搭建的博客了。*注意替换 username成你自己的github 用户名*。
+此时，不出意外的话，打开域名 [https://username.github.io](https://username.github.io) 就能看到你刚搭建的博客了。*注意替换 username成你自己的github 用户名*。
 
 ## 博客配置
 
@@ -131,9 +131,9 @@ google_analytics: UA-XXXXXXX-X
 ### 博客网址配置
 
 ```
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Your website URL (e.g. [http://barryclark.github.io](http://barryclark.github.io) or [http://www.barryclark.co](http://www.barryclark.co))
 # Used for Sitemap.xml and your RSS feed
-url: https://yourname.github.io
+url: [https://yourname.github.io](https://yourname.github.io)
 ```
 
 这里配置你自己的博客地址。
@@ -176,9 +176,9 @@ url: https://yourname.github.io
 
 `gem -v` `ruby -v` 查看得到版本号就说明成功了。
 
-如果是在墙内，需要切换安装源到https://gems.ruby-china.com/。墙外请忽略。
+如果是在墙内，需要切换安装源到[https://gems.ruby-china.com/](https://gems.ruby-china.com/)。墙外请忽略。
 
-`gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/` 切换安装源
+`gem sources --add [https://gems.ruby-china.com/](https://gems.ruby-china.com/) --remove [https://rubygems.org/`](https://rubygems.org/`) 切换安装源
 
 `gem sources -l` 查看版本
 
@@ -187,7 +187,7 @@ url: https://yourname.github.io
 `gem install bundler` 安装bundler 
 
 `bundle -v 查看版本
- bundle config mirror.https://rubygems.org https://gems.ruby-china.com` 切换安装源
+ bundle config mirror.[https://rubygems.org](https://rubygems.org) [https://gems.ruby-china.com`](https://gems.ruby-china.com`) 切换安装源
 
 ### 安装jekyll
 
@@ -309,8 +309,8 @@ url: https://yourname.github.io
 
 ```yml
 footer-links:
-  weibo: yourname #请输入你的微博个性域名 https://www.weibo.com/<yourname>
-  zhihu: yourname #输入你知乎主页链接上的名字 https://https://www.zhihu.com/people/<yourname>
+  weibo: yourname #请输入你的微博个性域名 [https://www.weibo.com/<yourname>](https://www.weibo.com/<yourname>)
+  zhihu: yourname #输入你知乎主页链接上的名字 [https://https://www.zhihu.com/people/<yourname>](https://https://www.zhihu.com/people/<yourname>)
 ```
 
 ### 修改svg-icons.html

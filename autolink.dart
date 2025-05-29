@@ -35,10 +35,10 @@ void processFile(String filePath) {
   String content = file.readAsStringSync();
 
   // 正则表达式匹配HTTP链接
-  // 匹配格式: http://或https://开头的URL，但不匹配已经是markdown格式的链接
-  // 包括链接前面有空格的情况，如 [xxx]( http://text.com)
+  //
+  // 用dart写一个正则，用来匹配HTTP URL。如果含有'。'，则取'。'前的URL。排除']('或者']( '或者'](<'或者'['或者'[ '或者'[<'或者'src="'或者'href="'开头的URL。
   final httpLinkPattern = RegExp(
-    r'(?<![\]\(\[])(?<!\]\(\s)(?<!\]\(\<)(?<!src=")(?<!href=")https?://[^\s\)"\]]+',
+    r'(?<![\]\(\[])(?<!\]\(\s)(?<!\]\(\<)(?<!src=")(?<!href=")https?://[^\s\)\"\]\。]+',
   );
 
   // 计数器
@@ -55,7 +55,7 @@ void processFile(String filePath) {
 
   // 如果内容有变化，写回文件
   if (content != newContent) {
-    // file.writeAsStringSync(newContent);
+    file.writeAsStringSync(newContent);
     log('文件已更新: $filePath');
     log('总共处理了 $linkCount 个链接');
   } else {
