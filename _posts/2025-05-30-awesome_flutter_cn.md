@@ -9,7 +9,7 @@ author: xxzj990
 
 原文：[https://github.com/crazycodeboy/awesome-flutter-cn](https://github.com/crazycodeboy/awesome-flutter-cn)
 
-[<img src="https://user-images.githubusercontent.com/1295961/45949308-cbb2f680-bffb-11e8-8054-28c35ed6d132.png" align="center" width="850">](https://flutter.dev/)
+<img src="https://user-images.githubusercontent.com/1295961/45949308-cbb2f680-bffb-11e8-8054-28c35ed6d132.png" align="center" width="850">
 
 <p align="center">
   <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
