@@ -27,7 +27,7 @@ author: xxzj990
   </a>
 </p>
 
-<a href="https://flutter.dev/">Flutter</a>是Google出品的一款用于开发高性能、高保真、跨平台App(Android iOS)的SDK。
+Flutter是Google出品的一款用于开发高性能、高保真、跨平台App(Android iOS)的SDK。
 
 如果您欣赏本篇内容📖，支持项目可见性，请给👍|⭐|👏
 
