@@ -9,25 +9,7 @@ author: xxzj990
 
 原文：[https://github.com/crazycodeboy/awesome-flutter-cn](https://github.com/crazycodeboy/awesome-flutter-cn)
 
-<img src="https://user-images.githubusercontent.com/1295961/45949308-cbb2f680-bffb-11e8-8054-28c35ed6d132.png" align="center" width="850">
-
-<p align="center">
-  <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
-    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-16,410-orange.svg" />
-  </a>
-  <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-139304-brightgreen.svg" />
-  </a>
-  <img alt="Entries" src="https://img.shields.io/badge/Items-358-lightgrey.svg" />
-  <a href="https://github.com/sindresorhus/awesome">
-    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
-  </a>
-  <a href="https://saythanks.io/to/Solido" target="_blank">
-    <img alt="Thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" />
-  </a>
-</p>
-
-Flutter是Google出品的一款用于开发高性能、高保真、跨平台App(Android iOS)的SDK。
+[Flutter](https://flutter.dev)是Google出品的一款用于开发高性能、高保真、跨平台App(Android iOS)的SDK。
 
 如果您欣赏本篇内容📖，支持项目可见性，请给👍|⭐|👏
 
